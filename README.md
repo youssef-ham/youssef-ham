@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdkb2NxbTdoOTR2a3c3NnJvcmV5MDRmNWhzMmZtN2U2eWF3dzh0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlRnAWXxn0MhKLK/giphy.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,40:004e92,80:0f2027,100:000000&text=🌕%20Moon%20Base%20Alpha&fontColor=ffffff&fontSize=50&animation=twinkling&desc=Youssef%20Fawzy%20•%20AI%20Engineer%20•%20Generative%20AI&descAlignY=68"/>
 
-# 🌌 YOUSSEF FAWZY
+# 🚀 Youssef Fawzy
 
-### 🚀 AI Engineer • Generative AI • RAG Explorer • LLM Builder
+### AI Engineer • Generative AI • RAG • LangChain • LLM Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Initializing+Moon+Base+Alpha...;Connecting+to+Neural+Network...;Loading+Vector+Database...;Deploying+AI+Systems...;Welcome+Commander+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Connecting+to+Moon+Base+Alpha...;Loading+Neural+Networks...;Building+AI+Beyond+Earth...;Welcome+Commander+🚀"/>
 
 ![](https://komarev.com/ghpvc/?username=youssef-ham&style=for-the-badge&color=blueviolet)
 
@@ -14,13 +14,13 @@
 
 ---
 
-# 🌕 MISSION CONTROL
+# 🌕 Mission Control
 
 ```yaml
 Name: Youssef Fawzy
 Role: AI Engineer
+Location: Cairo, Egypt 🇪🇬
 Base: Moon Base Alpha 🌕
-Earth Location: Cairo, Egypt 🇪🇬
 Status: ONLINE 🟢
 
 Mission:
@@ -32,7 +32,7 @@ Mission:
 
 ---
 
-# 🧑‍🚀 ASTRONAUT PROFILE
+# 🧑‍🚀 Astronaut Profile
 
 ```python
 class YoussefFawzy:
@@ -56,7 +56,7 @@ class YoussefFawzy:
 
 ---
 
-# 🪐 MISSION PROGRESS
+# 🪐 Mission Progress
 
 ```text
 🧠 Generative AI      ██████████ 100%
@@ -68,7 +68,7 @@ class YoussefFawzy:
 
 ---
 
-# ⚡ TECH ARSENAL
+# ⚡ Tech Arsenal
 
 ### 🧠 AI & Generative AI
 
@@ -98,9 +98,10 @@ class YoussefFawzy:
 
 ---
 
-# 🚀 FEATURED MISSIONS
+# 🚀 Featured Missions
 
 ## 🌌 LLM Zoomcamp RAG Chatbot
+
 ```diff
 + End-to-End RAG System
 + LangChain
@@ -110,6 +111,7 @@ class YoussefFawzy:
 ```
 
 ## 🎓 University Course Chatbot
+
 ```diff
 + LLaMA
 + Retrieval-Augmented Generation
@@ -117,6 +119,7 @@ class YoussefFawzy:
 ```
 
 ## 💼 Interview Preparation Chatbot
+
 ```diff
 + Streamlit
 + LLM APIs
@@ -124,6 +127,7 @@ class YoussefFawzy:
 ```
 
 ## ✈️ Airline Passenger Satisfaction Analysis
+
 ```diff
 + Accuracy: 96.3%
 + AUC: 99.4%
@@ -131,7 +135,7 @@ class YoussefFawzy:
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 Achievements
 
 🥇 Recognized by the Minister of Youth and Sports.
 
@@ -141,7 +145,7 @@ class YoussefFawzy:
 
 ---
 
-# 📡 GALACTIC ANALYTICS
+# 📡 Galactic Analytics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-ham&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -154,15 +158,7 @@ class YoussefFawzy:
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/youssef-ham/youssef-ham/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🌍 CONTACT MISSION CONTROL
+# 🌍 Contact Mission Control
 
 <p align="center">
 
@@ -184,14 +180,10 @@ class YoussefFawzy:
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║     BUILDING AI BEYOND EARTH 🚀🌕           ║
-║                                              ║
-║ "The future isn't coming. We're coding it." ║
-╚══════════════════════════════════════════════╝
-```
+### 🌕 Building AI Beyond Earth 🚀
+
+*"The future isn't coming. We're coding it."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000428&height=150&section=footer"/>
