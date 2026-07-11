@@ -1,176 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00c6ff&text=YOUSSEF%20FAWZY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20Explorer&descAlignY=58"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I0Z2h5aHh0d3l2eGNjNnA3bmtjN2d5bXd4eTRpY3F6bWRoZ2hoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRuo6sLetdllPAQ/giphy.gif" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Initializing+AI+Core...;Loading+Neural+Networks...;Connecting+to+Vector+Database...;Launching+Generative+AI+Systems...;Welcome+to+my+Universe+🚀"/>
+# 🌕 Youssef Fawzy
+
+### 🚀 AI Engineer | Generative AI Engineer | RAG Explorer | LLM Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Connecting+to+Moon+Base...;Loading+Neural+Networks...;Building+AI+Beyond+Earth...;Welcome+to+my+AI+Station+🌕🚀"/>
 
 </div>
 
 ---
 
-# 🌌 SYSTEM STATUS
+# 🌕 Lunar Base Status
 
 ```yaml
 Name: Youssef Fawzy
-Location: Cairo, Egypt 🇪🇬
-Role: AI Engineer
+Location: Moon Base Alpha 🌕
+Earth Origin: Cairo, Egypt 🇪🇬
+Occupation: AI Engineer
 Status: Online 🟢
-Current Mission:
-  - Building LLM Applications
-  - Developing RAG Systems
-  - Exploring Multi-Agent AI
-  - Creating Production AI Solutions
+Mission:
+  - Build Intelligent Systems
+  - Create RAG Applications
+  - Explore Multi-Agent AI
+  - Push AI Beyond Earth
 ```
 
 ---
 
-<div align="center">
+# 🧑‍🚀 Astronaut Profile
 
-<img src="https://github-profile-trophy.vercel.app/?username=youssef-ham&theme=algolia&row=1&column=7"/>
+```python
+class MoonEngineer:
 
-</div>
+    def __init__(self):
+        self.name = "Youssef Fawzy"
+        self.role = "AI Engineer"
+        self.location = "Moon Base Alpha 🌕"
+
+        self.skills = [
+            "Generative AI",
+            "RAG",
+            "LangChain",
+            "Machine Learning",
+            "Deep Learning",
+            "LLMs"
+        ]
+
+    def mission(self):
+        return "Building AI beyond Earth 🚀"
+```
 
 ---
 
-# 🚀 AI COMMAND CENTER
+# 🪐 Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+### 🤖 AI & Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-green?style=for-the-badge)
 
-### 🧠 Generative AI
-- LLM Applications
-- RAG Systems
-- LangChain
-- LangGraph
-- Prompt Engineering
-- Vector Databases
-
-### ⚡ Machine Learning
-- Scikit-Learn
-- XGBoost
-- LightGBM
-- TensorFlow
-- PyTorch
-
-</td>
-
-<td width="50%">
+### 🧠 Machine Learning
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-darkred?style=for-the-badge&logo=pytorch)
 
 ### ☁️ Tools
-- Docker
-- Streamlit
-- Git
-- Google Cloud
-- Vertex AI
-- Linux / WSL
-
-### 💻 Languages
-- Python
-- SQL
-
-</td>
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
 
-# 🌍 ACTIVE MISSIONS
+# 🚀 Current Missions
 
-### 🤖 LLM Zoomcamp RAG Chatbot
-```diff
-+ End-to-End RAG System
-+ LangChain
-+ Embeddings
-+ Vector Search
-+ Streamlit
-```
+🌌 **LLM Zoomcamp RAG Chatbot**
 
-### 🎓 University Course Chatbot
-```diff
-+ LLaMA
-+ RAG
-+ Context-Aware Answers
-```
+🎓 **University Course Chatbot**
 
-### 💼 Interview Preparation Chatbot
-```diff
-+ LLM APIs
-+ Streamlit
-+ AI Interview Simulator
-```
+💼 **Interview Preparation Chatbot**
 
-### ✈️ Airline Passenger Satisfaction Analysis
-```diff
-+ Accuracy: 96.3%
-+ AUC: 99.4%
-```
+✈️ **Airline Passenger Satisfaction Analysis**
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 Space Achievements
 
-🥇 Minister of Youth and Sports Recognition
+🥇 Recognized by the Minister of Youth and Sports.
 
-🚀 NASA Space Apps Challenge Participant
+🚀 NASA Space Apps Challenge Participant.
 
-🎓 CS50's Introduction to Artificial Intelligence with Python
+🎓 CS50's Introduction to Artificial Intelligence with Python.
 
 ---
 
-# 📡 GALACTIC ANALYTICS
+# 📊 Mission Analytics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=youssef-ham&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=youssef-ham&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ham&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ham&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ham&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/youssef-ham/youssef-ham/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+</p>
 
 ---
 
-# 🌠 SATELLITE LINKS
+# 🛰️ Contact Mission Control
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/youssef-fawzy-ai">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/youssef-ham">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:yousseffawzy168@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════╗
-║  Artificial Intelligence is not the future.          ║
-║  We are already building it. 🚀                      ║
-╚════════════════════════════════════════════════════════╝
-```
+# 🌕 "While others build software on Earth, I build intelligence from the Moon."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:000428&height=150&section=footer"/>
+<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500">
 
 </div>
