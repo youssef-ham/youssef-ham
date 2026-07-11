@@ -1,154 +1,176 @@
 <div align="center">
 
-# 🌌 Youssef Fawzy
-### 🚀 AI Engineer | Generative AI | RAG | LangChain | LLM Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00c6ff&text=YOUSSEF%20FAWZY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20Explorer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+AI+Universe...;Building+Intelligent+Systems...;Generative+AI+Engineer...;RAG+%7C+LLMs+%7C+Machine+Learning" />
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="700"/>
-
-![](https://komarev.com/ghpvc/?username=youssef-ham&color=blueviolet&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Initializing+AI+Core...;Loading+Neural+Networks...;Connecting+to+Vector+Database...;Launching+Generative+AI+Systems...;Welcome+to+my+Universe+🚀"/>
 
 </div>
 
 ---
 
-# 🪐 Mission Control
+# 🌌 SYSTEM STATUS
 
 ```yaml
-name: Youssef Fawzy
-location: Cairo, Egypt 🇪🇬
-role: AI Engineer
-specialization:
-  - Generative AI
-  - Retrieval Augmented Generation
-  - LLM Engineering
-  - Machine Learning
-current_mission:
-  - Building Production AI Systems
-  - Multi-Agent Systems
-  - AI Research
+Name: Youssef Fawzy
+Location: Cairo, Egypt 🇪🇬
+Role: AI Engineer
+Status: Online 🟢
+Current Mission:
+  - Building LLM Applications
+  - Developing RAG Systems
+  - Exploring Multi-Agent AI
+  - Creating Production AI Solutions
 ```
-
----
-
-# 🌠 About Me
-
-```python
-class AIEngineer:
-
-    def __init__(self):
-        self.name = "Youssef Fawzy"
-        self.role = "AI Engineer"
-        self.language = ["Python", "SQL"]
-        self.interests = [
-            "Generative AI",
-            "RAG",
-            "LLMs",
-            "Deep Learning",
-            "Multi-Agent Systems"
-        ]
-
-    def say_hi(self):
-        print("Welcome to my AI Universe 🚀")
-```
-
----
-
-# ⚡ Tech Arsenal
-
-## 🤖 Generative AI
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-green?style=for-the-badge)
-
-## 🧠 Machine Learning
-
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-darkred?style=for-the-badge&logo=pytorch)
-
-## ☁️ Tools
-
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
----
-
-# 🚀 Featured Missions
-
-### 🌌 LLM Zoomcamp RAG Chatbot
-End-to-end Retrieval Augmented Generation system with LangChain and Streamlit.
-
-### 🤖 Interview Preparation Chatbot
-AI-powered technical interview simulator.
-
-### 🎓 University Course Chatbot
-Context-aware educational assistant using LLaMA and RAG.
-
-### ✈️ Airline Passenger Satisfaction Analysis
-96.3% Accuracy | 99.4% AUC.
-
----
-
-# 🏆 Achievements
-
-🥇 Recognized by the Minister of Youth and Sports.
-
-🚀 NASA Space Apps Challenge Participant.
-
-🎓 CS50's Introduction to Artificial Intelligence with Python.
-
----
-
-# 📊 Galactic Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-ham&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ham&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ham&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/youssef-ham/youssef-ham/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🌍 Connect With Mission Control
-
-<p align="center">
-<a href="https://www.linkedin.com/in/youssef-fawzy-ai">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yousseffawzy168@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/youssef-ham">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-</p>
 
 ---
 
 <div align="center">
 
-### 🌌 "Artificial Intelligence is the closest thing humanity has to magic."
+<img src="https://github-profile-trophy.vercel.app/?username=youssef-ham&theme=algolia&row=1&column=7"/>
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+</div>
+
+---
+
+# 🚀 AI COMMAND CENTER
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Generative AI
+- LLM Applications
+- RAG Systems
+- LangChain
+- LangGraph
+- Prompt Engineering
+- Vector Databases
+
+### ⚡ Machine Learning
+- Scikit-Learn
+- XGBoost
+- LightGBM
+- TensorFlow
+- PyTorch
+
+</td>
+
+<td width="50%">
+
+### ☁️ Tools
+- Docker
+- Streamlit
+- Git
+- Google Cloud
+- Vertex AI
+- Linux / WSL
+
+### 💻 Languages
+- Python
+- SQL
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌍 ACTIVE MISSIONS
+
+### 🤖 LLM Zoomcamp RAG Chatbot
+```diff
++ End-to-End RAG System
++ LangChain
++ Embeddings
++ Vector Search
++ Streamlit
+```
+
+### 🎓 University Course Chatbot
+```diff
++ LLaMA
++ RAG
++ Context-Aware Answers
+```
+
+### 💼 Interview Preparation Chatbot
+```diff
++ LLM APIs
++ Streamlit
++ AI Interview Simulator
+```
+
+### ✈️ Airline Passenger Satisfaction Analysis
+```diff
++ Accuracy: 96.3%
++ AUC: 99.4%
+```
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+🥇 Minister of Youth and Sports Recognition
+
+🚀 NASA Space Apps Challenge Participant
+
+🎓 CS50's Introduction to Artificial Intelligence with Python
+
+---
+
+# 📡 GALACTIC ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=youssef-ham&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ham&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ham&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/youssef-ham/youssef-ham/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌠 SATELLITE LINKS
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/youssef-fawzy-ai">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/youssef-ham">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:yousseffawzy168@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════════╗
+║  Artificial Intelligence is not the future.          ║
+║  We are already building it. 🚀                      ║
+╚════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:000428&height=150&section=footer"/>
 
 </div>
