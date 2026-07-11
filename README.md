@@ -1,94 +1,137 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I0Z2h5aHh0d3l2eGNjNnA3bmtjN2d5bXd4eTRpY3F6bWRoZ2hoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRuo6sLetdllPAQ/giphy.gif" width="100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdkb2NxbTdoOTR2a3c3NnJvcmV5MDRmNWhzMmZtN2U2eWF3dzh0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlRnAWXxn0MhKLK/giphy.gif" width="100%">
 
-# 🌕 Youssef Fawzy
+# 🌌 YOUSSEF FAWZY
 
-### 🚀 AI Engineer | Generative AI Engineer | RAG Explorer | LLM Builder
+### 🚀 AI Engineer • Generative AI • RAG Explorer • LLM Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Connecting+to+Moon+Base...;Loading+Neural+Networks...;Building+AI+Beyond+Earth...;Welcome+to+my+AI+Station+🌕🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Initializing+Moon+Base+Alpha...;Connecting+to+Neural+Network...;Loading+Vector+Database...;Deploying+AI+Systems...;Welcome+Commander+🚀"/>
+
+![](https://komarev.com/ghpvc/?username=youssef-ham&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-# 🌕 Lunar Base Status
+# 🌕 MISSION CONTROL
 
 ```yaml
 Name: Youssef Fawzy
-Location: Moon Base Alpha 🌕
-Earth Origin: Cairo, Egypt 🇪🇬
-Occupation: AI Engineer
-Status: Online 🟢
+Role: AI Engineer
+Base: Moon Base Alpha 🌕
+Earth Location: Cairo, Egypt 🇪🇬
+Status: ONLINE 🟢
+
 Mission:
-  - Build Intelligent Systems
-  - Create RAG Applications
-  - Explore Multi-Agent AI
+  - Build Generative AI Systems
+  - Develop RAG Applications
+  - Explore Multi-Agent Systems
   - Push AI Beyond Earth
 ```
 
 ---
 
-# 🧑‍🚀 Astronaut Profile
+# 🧑‍🚀 ASTRONAUT PROFILE
 
 ```python
-class MoonEngineer:
+class YoussefFawzy:
 
     def __init__(self):
-        self.name = "Youssef Fawzy"
         self.role = "AI Engineer"
         self.location = "Moon Base Alpha 🌕"
 
-        self.skills = [
+        self.specialization = [
             "Generative AI",
             "RAG",
             "LangChain",
+            "LLMs",
             "Machine Learning",
-            "Deep Learning",
-            "LLMs"
+            "Deep Learning"
         ]
 
     def mission(self):
-        return "Building AI beyond Earth 🚀"
+        return "Building intelligence beyond Earth 🚀"
 ```
 
 ---
 
-# 🪐 Tech Stack
+# 🪐 MISSION PROGRESS
 
-### 🤖 AI & Generative AI
+```text
+🧠 Generative AI      ██████████ 100%
+🚀 RAG Systems        ██████████ 100%
+🤖 LLM Applications   █████████░ 90%
+🌌 Multi-Agent AI     ████████░░ 80%
+☁️ MLOps              ██████░░░░ 60%
+```
+
+---
+
+# ⚡ TECH ARSENAL
+
+### 🧠 AI & Generative AI
+
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-green?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-green?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
 
-### 🧠 Machine Learning
+### 💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+### 🤖 Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-darkred?style=for-the-badge&logo=pytorch)
 
 ### ☁️ Tools
+
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
 
-# 🚀 Current Missions
+# 🚀 FEATURED MISSIONS
 
-🌌 **LLM Zoomcamp RAG Chatbot**
+## 🌌 LLM Zoomcamp RAG Chatbot
+```diff
++ End-to-End RAG System
++ LangChain
++ Embeddings
++ Vector Search
++ Streamlit
+```
 
-🎓 **University Course Chatbot**
+## 🎓 University Course Chatbot
+```diff
++ LLaMA
++ Retrieval-Augmented Generation
++ Context-Aware Question Answering
+```
 
-💼 **Interview Preparation Chatbot**
+## 💼 Interview Preparation Chatbot
+```diff
++ Streamlit
++ LLM APIs
++ AI Interview Simulation
+```
 
-✈️ **Airline Passenger Satisfaction Analysis**
+## ✈️ Airline Passenger Satisfaction Analysis
+```diff
++ Accuracy: 96.3%
++ AUC: 99.4%
+```
 
 ---
 
-# 🏆 Space Achievements
+# 🏆 ACHIEVEMENTS
 
 🥇 Recognized by the Minister of Youth and Sports.
 
@@ -98,14 +141,11 @@ class MoonEngineer:
 
 ---
 
-# 📊 Mission Analytics
+# 📡 GALACTIC ANALYTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-ham&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ham&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-ham&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ham&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -114,7 +154,15 @@ class MoonEngineer:
 
 ---
 
-# 🛰️ Contact Mission Control
+# 🐍 CONTRIBUTION MATRIX
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/youssef-ham/youssef-ham/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌍 CONTACT MISSION CONTROL
 
 <p align="center">
 
@@ -136,8 +184,14 @@ class MoonEngineer:
 
 <div align="center">
 
-# 🌕 "While others build software on Earth, I build intelligence from the Moon."
-
-<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500">
+```text
+╔══════════════════════════════════════════════╗
+║     BUILDING AI BEYOND EARTH 🚀🌕           ║
+║                                              ║
+║ "The future isn't coming. We're coding it." ║
+╚══════════════════════════════════════════════╝
+```
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer"/>
