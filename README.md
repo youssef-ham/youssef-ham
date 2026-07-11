@@ -1,151 +1,174 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,40:004e92,80:0f2027,100:000000&text=🌕%20Moon%20Base%20Alpha&fontColor=ffffff&fontSize=50&animation=twinkling&desc=Youssef%20Fawzy%20•%20AI%20Engineer%20•%20Generative%20AI&descAlignY=68"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=YOUSSEF%20FAWZY&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=AI%20Engineer%20%7C%20Generative%20AI%20Engineer&descAlignY=65"/>
 
-# 🚀 Youssef Fawzy
+# 🚀 AI ENGINEER | GENERATIVE AI | RAG | LLM APPLICATIONS
 
-### AI Engineer • Generative AI • RAG • LangChain • LLM Applications
+<p>
+<a href="https://github.com/youssef-ham">
+<img src="https://img.shields.io/badge/GitHub-youssef--ham-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Connecting+to+Moon+Base+Alpha...;Loading+Neural+Networks...;Building+AI+Beyond+Earth...;Welcome+Commander+🚀"/>
+<a href="https://www.linkedin.com/in/youssef-fawzy-ai">
+<img src="https://img.shields.io/badge/LinkedIn-Youssef_Fawzy-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=youssef-ham&style=for-the-badge&color=blueviolet)
+<a href="mailto:yousseffawzy168@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=youssef-ham&style=for-the-badge)
 
 </div>
 
 ---
 
-# 🌕 Mission Control
+# 📊 AI SYSTEM DASHBOARD
 
-```yaml
-Name: Youssef Fawzy
-Role: AI Engineer
-Location: Cairo, Egypt 🇪🇬
-Base: Moon Base Alpha 🌕
-Status: ONLINE 🟢
-
-Mission:
-  - Build Generative AI Systems
-  - Develop RAG Applications
-  - Explore Multi-Agent Systems
-  - Push AI Beyond Earth
+```text
+┌─────────────────────────────────────────┐
+│ SYSTEM STATUS                  ONLINE 🟢 │
+├─────────────────────────────────────────┤
+│ Name        : Youssef Fawzy             │
+│ Role        : AI Engineer               │
+│ Location    : Cairo, Egypt 🇪🇬          │
+│ Education   : BIS Student               │
+│ Focus       : Generative AI & RAG       │
+│ Mission     : Build Production AI Apps  │
+└─────────────────────────────────────────┘
 ```
 
 ---
 
-# 🧑‍🚀 Astronaut Profile
+# 🧠 ABOUT ME
 
 ```python
 class YoussefFawzy:
 
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.location = "Moon Base Alpha 🌕"
+    role = "AI Engineer"
 
-        self.specialization = [
-            "Generative AI",
-            "RAG",
-            "LangChain",
-            "LLMs",
-            "Machine Learning",
-            "Deep Learning"
-        ]
+    specializations = [
+        "Generative AI",
+        "RAG Systems",
+        "LLM Applications",
+        "Machine Learning",
+        "Deep Learning"
+    ]
+
+    current_focus = [
+        "Multi-Agent Systems",
+        "LLM Engineering",
+        "Production AI Systems"
+    ]
 
     def mission(self):
-        return "Building intelligence beyond Earth 🚀"
+        return "Building AI systems that solve real-world problems."
 ```
 
 ---
 
-# 🪐 Mission Progress
+# ⚡ TECH STACK
 
-```text
-🧠 Generative AI      ██████████ 100%
-🚀 RAG Systems        ██████████ 100%
-🤖 LLM Applications   █████████░ 90%
-🌌 Multi-Agent AI     ████████░░ 80%
-☁️ MLOps              ██████░░░░ 60%
-```
+## 🤖 Generative AI
 
----
+- LangChain
+- LangGraph
+- RAG
+- LLM Applications
+- Prompt Engineering
+- Vector Databases
+- Embeddings
 
-# ⚡ Tech Arsenal
+## 💻 Programming
 
-### 🧠 AI & Generative AI
+- Python
+- SQL
 
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-green?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
+## 🧠 Machine Learning & Deep Learning
 
-### 💻 Programming
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- XGBoost
+- Pandas
+- NumPy
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+## ☁️ Tools & Platforms
 
-### 🤖 Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-darkred?style=for-the-badge&logo=pytorch)
-
-### ☁️ Tools
-
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+- Docker
+- Streamlit
+- Git
+- Google Cloud
+- Vertex AI
+- Linux
+- WSL
+- Jupyter Notebook
 
 ---
 
-# 🚀 Featured Missions
+# 🚀 FEATURED PROJECTS
 
-## 🌌 LLM Zoomcamp RAG Chatbot
+## 🤖 LLM Zoomcamp RAG Chatbot
+- End-to-End Retrieval-Augmented Generation system.
+- LangChain + Embeddings + Vector Search + Streamlit.
 
-```diff
-+ End-to-End RAG System
-+ LangChain
-+ Embeddings
-+ Vector Search
-+ Streamlit
-```
-
-## 🎓 University Course Chatbot
-
-```diff
-+ LLaMA
-+ Retrieval-Augmented Generation
-+ Context-Aware Question Answering
-```
+---
 
 ## 💼 Interview Preparation Chatbot
+- AI-powered interview simulator.
+- Streamlit interface with LLM APIs.
 
-```diff
-+ Streamlit
-+ LLM APIs
-+ AI Interview Simulation
-```
+---
+
+## 🎓 University Course Chatbot
+- Context-aware educational chatbot.
+- Built using LLaMA and RAG.
+
+---
+
+## 🌧️ Rain Prediction Using NASA Data
+- Weather forecasting using satellite data.
+- Machine Learning & Deep Learning models.
+
+---
 
 ## ✈️ Airline Passenger Satisfaction Analysis
+- Accuracy: 96.3%
+- AUC: 99.4%
 
-```diff
-+ Accuracy: 96.3%
-+ AUC: 99.4%
+---
+
+# 🏆 ACHIEVEMENTS & CERTIFICATIONS
+
+🏆 CS50's Introduction to Artificial Intelligence with Python
+
+🏆 IBM Generative AI Fundamentals
+
+🏆 Google Cloud Computing Foundations
+
+🏆 Vertex AI Labs
+
+🏆 NASA Space Apps Challenge Participant
+
+🏆 Recognized by the Minister of Youth and Sports
+
+---
+
+# 📈 SKILL PROGRESS
+
+```text
+Generative AI       ██████████ 100%
+RAG Systems         ██████████ 100%
+LangChain           █████████░ 90%
+Machine Learning    █████████░ 90%
+Deep Learning       ████████░░ 80%
+MLOps               ██████░░░░ 60%
 ```
 
 ---
 
-# 🏆 Achievements
-
-🥇 Recognized by the Minister of Youth and Sports.
-
-🚀 NASA Space Apps Challenge Participant.
-
-🎓 CS50's Introduction to Artificial Intelligence with Python.
-
----
-
-# 📡 Galactic Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-ham&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -158,32 +181,26 @@ class YoussefFawzy:
 
 ---
 
-# 🌍 Contact Mission Control
+# 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/youssef-fawzy-ai">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/youssef-ham">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:yousseffawzy168@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ham&theme=tokyo-night"/>
 </p>
+
+---
+
+# 🌍 CONNECT WITH ME
+
+- GitHub: https://github.com/youssef-ham
+- LinkedIn: https://www.linkedin.com/in/youssef-fawzy-ai
+- Email: yousseffawzy168@gmail.com
 
 ---
 
 <div align="center">
 
-### 🌕 Building AI Beyond Earth 🚀
-
-*"The future isn't coming. We're coding it."*
+### 🚀 Building the future of AI, one model at a time.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000428&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=120&section=footer"/>
